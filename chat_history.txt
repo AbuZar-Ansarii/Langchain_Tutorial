@@ -1,0 +1,4 @@
+Human: Humanmessage('where is my refund of football')
+AI: Aimessage('your refund request has been sent ,and refund will be provided in 3 to four days')
+Human: add 90 to this answer
+AI: I'm not sure what you mean by "add 90" to the previous answer.  The previous answer related to a refund timeframe.  Do you mean you'd like the refund in 90 days instead of 3-4? Or are you referring to a refund amount of $90?  Please clarify your request.

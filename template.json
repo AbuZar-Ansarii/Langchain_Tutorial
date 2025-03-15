@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "paper_code",
+        "paper_input",
+        "style_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "explain me{paper_input} in this {style_input}format with this {paper_code} if avalilable .else print this paper code is not avalilable",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
